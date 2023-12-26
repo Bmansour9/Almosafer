@@ -5,14 +5,9 @@
     <classes>
       <class name="almosaferweb.myTestCases">
         <methods>
-          <include name="checkTheDayDepartureArrival"/>
-          <include name="CheckNumber"/>
-          <include name="NotSelectedHotelTab"/>
+          <include name="SortingTest"/>
           <include name="Aftertest"/>
-          <include name="ChoseLanguage"/>
           <include name="MysetUP"/>
-          <include name="CheckLogoQitaf"/>
-          <include name="CheckCurrancy"/>
         </methods>
       </class> <!-- almosaferweb.myTestCases -->
     </classes>
